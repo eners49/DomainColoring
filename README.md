@@ -25,3 +25,12 @@ Below can be seen the graph of y = x² for real numbers and for complex numbers 
 All in all, graphing functions like this isn't very useful a lot of the time, but graphing more complex functions can lead to really pretty graphs. These graphs can also be pieced together and used to create "trippy" animations.
 
 ## Gallery
+
+![func1](https://github.com/eners49/DomainColoring/assets/32853967/3a821276-f693-41cc-a468-d99f1a38bce7)
+![func2](https://github.com/eners49/DomainColoring/assets/32853967/79558dbf-4294-4f24-b4e6-5fbd21df469d)
+![func3](https://github.com/eners49/DomainColoring/assets/32853967/80921b3a-4ece-446a-afe6-45e6517f6745)
+![func4](https://github.com/eners49/DomainColoring/assets/32853967/44eacd46-79a8-4ecf-b1a8-05f88626b86b)
+![func5](https://github.com/eners49/DomainColoring/assets/32853967/d752a91a-dfe9-4557-b223-a66ab7303661)
+![func6](https://github.com/eners49/DomainColoring/assets/32853967/6050e3a2-5c3d-4694-abfd-eb80aea6f195)
+![func7](https://github.com/eners49/DomainColoring/assets/32853967/53198cb2-1231-49e2-92c8-23c6ea4595f0)
+![func8](https://github.com/eners49/DomainColoring/assets/32853967/a198fa52-dd92-4e08-b243-baaa7428b6f7)
